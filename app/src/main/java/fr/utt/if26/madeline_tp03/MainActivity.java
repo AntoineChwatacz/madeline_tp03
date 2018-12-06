@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
      * Super méthode qui créerun bouton qui permet de changer un texte de couleur. Amazing.
      * @param savedInstanceState
      */
+    var testModif = "JE suis une modification pour tester le GIIIIIIIIIIIT";
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
